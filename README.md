@@ -1,2 +1,2 @@
-# Trabalho-Complementar---P1
+# Trabalho Complementar P1
 Algoritmos de ordenação
