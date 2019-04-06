@@ -9,11 +9,11 @@ ordenação, implementados para que ordenem palavras.
 * Quick Sort
 
 Os algoritmos se encontram nos seguintes diretórios:
-  1. Selection Sort: 
-  2. Bubble Sort:
-  3. Insertion Sort:
-  4. Merge Sort:
-  5. Quick Sort:
+  1. Selection Sort: SelectionSort/SelectionSort.java
+  2. Bubble Sort: BubbleSort/BubbleSort.java
+  3. Insertion Sort: InsertionSort/InsertionSort.java
+  4. Merge Sort: MergeSort/MergeSort.java
+  5. Quick Sort: QuickSort/QuickSort.java
 
 Sabe-se que os algoritmos de ordenação são: *Selection Sort* é **O(n^2)**, *Bubble Sort* é **O(n^2)**, *Insertion Sort* é **O(n^2)**,
 *Merge Sort* é **O(nlogn)** e *Quick Sort* é **O(nlogn)**;
