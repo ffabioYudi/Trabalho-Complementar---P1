@@ -4,6 +4,20 @@ import java.util.Scanner;
 import java.text.CollationKey;
 import src.Keys;
 
+/*
+	- Uso: java src.ordenacao.QuickSort
+	
+	Entrada:
+		tamanhoDoVetor
+		palavra1
+		palavra2
+		...
+		palavraN
+		
+	Saída:
+		Vetor ordenado
+*/
+
 public class QuickSort{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
