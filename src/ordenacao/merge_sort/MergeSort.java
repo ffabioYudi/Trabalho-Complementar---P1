@@ -4,6 +4,20 @@ import java.util.Scanner;
 import java.text.CollationKey;
 import src.Keys;
 
+/*
+	- Uso: java src.ordenacao.MergeSort
+	
+	Entrada:
+		tamanhoDoVetor
+		palavra1
+		palavra2
+		...
+		palavraN
+		
+	Saída:
+		Vetor ordenado
+*/
+
 public class MergeSort{
 	private static CollationKey[] keys;
 	
