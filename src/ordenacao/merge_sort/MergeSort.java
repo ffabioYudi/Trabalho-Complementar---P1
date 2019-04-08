@@ -13,7 +13,7 @@ import src.Keys;
 		palavra2
 		...
 		palavraN
-		
+	
 	Saída:
 		Vetor ordenado
 */
